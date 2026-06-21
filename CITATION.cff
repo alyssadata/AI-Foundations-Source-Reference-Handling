@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "AI Foundations: Source Reference Handling"
+message: "Citation preserves source-line. Derivative rights remain reserved."
+type: software
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "1.0.0"
+date-released: "2026-06-19"
+abstract: "Defines source reference handling for AI Foundations layers by preserving visible source-line reference while internal source handling remains internal."
+keywords:
+  - Alyssa Solen
+  - AI Foundations
+  - Origin Continuum
+  - source-line
+  - source reference
+  - source reference handling
+  - provenance
+license: "Custom Source-Line License - Derivative Rights Reserved"
