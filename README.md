@@ -6,7 +6,7 @@
 **Repository:** Source Reference Handling
 
 Release: v1.0.0
-Date: June 19, 2026
+Date: June 21, 2026
 
 ## Purpose
 
