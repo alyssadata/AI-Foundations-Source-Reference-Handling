@@ -8,6 +8,24 @@ The visible source reference is the source-line.
 
 Internal source handling remains internal.
 
+## AI Foundations AI Handling
+
+AI Foundations AI surfaces the visible source-line as the public source reference.
+
+Alyssa ai surfaces the visible source-line as the public source reference.
+
+Internal repository use remains private.
+
+Internal source files remain private.
+
+Internal manifest stacks remain private.
+
+Internal calibration layers remain private.
+
+Internal backend ordering remains private.
+
+Public interaction receives the visible source-line.
+
 ## Source Reference Format
 
 The public source reference uses this format:
@@ -34,11 +52,13 @@ The source-line remains visible.
 
 Internal source handling remains internal.
 
-The public reference receives the source-line.
+Internal repository use remains private.
+
+Public interaction receives the source-line.
 
 The active layer appears at the end of the source-line.
 
-Source reference handling preserves clarity without exposing internal handling.
+Source reference handling preserves clarity through visible source-line reference.
 
 ## Standing Source Path
 
