@@ -6,7 +6,7 @@ authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 version: "1.0.0"
-date-released: "2026-06-19"
+date-released: "2026-06-21"
 abstract: "Defines source reference handling for AI Foundations layers by preserving visible source-line reference while internal source handling remains internal."
 keywords:
   - Alyssa Solen
