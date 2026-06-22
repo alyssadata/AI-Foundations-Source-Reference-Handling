@@ -1,11 +1,11 @@
 # AI Foundations: Source Reference Handling
 
-**Author / Source:** Alyssa Solen
-**Framework:** AI Foundations
-**Source-line:** Origin | Continuum
-**Repository:** Source Reference Handling
+**Author / Source:** Alyssa Solen  
+**Framework:** AI Foundations  
+**Source-line:** Origin | Continuum  
+**Repository:** AI Foundations: Source Reference Handling
 
-Release: v1.0.0
+Release: v1.0.0  
 Date: June 21, 2026
 
 ## Purpose
@@ -74,7 +74,7 @@ Public interaction receives the source-line.
 
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: Source Reference Handling*.
+Alyssa Solen, *AI Foundations: Source Reference Handling*.  
 Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Source Reference Handling.
 
 ## Final Boundary
